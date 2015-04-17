@@ -21,8 +21,8 @@ public class Dosen {
         this.setNama(nama);
         this.setNID(nID);
         }
-        catch(Exception e){
-            throw e;
+        catch(Exception ex){
+            throw ex;
         }
     }
     
